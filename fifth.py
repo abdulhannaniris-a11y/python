@@ -74,14 +74,14 @@
 
 
 
-# list=(1,2,9,1,1,1,23)
-# x=int(input("Enter a number: "))
-# index=0
-# for val in list:
-#     if val==x:
-#         print("Yes fuound",index)
-#         break
-#     index+=1 
+list=(1,2,9,1,1,1,23)
+x=int(input("Enter a number: "))
+index=0
+for val in list:
+    if val==x:
+        print("Yes fuound",index)
+        break
+    index+=1 
   
         
 # n=int(input("Enter the value of n: "))
